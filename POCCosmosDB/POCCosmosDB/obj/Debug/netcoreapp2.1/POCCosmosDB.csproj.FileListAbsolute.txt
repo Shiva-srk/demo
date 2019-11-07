@@ -1,0 +1,14 @@
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\bin\Debug\netcoreapp2.1\POCCosmosDB.deps.json
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\bin\Debug\netcoreapp2.1\POCCosmosDB.runtimeconfig.json
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\bin\Debug\netcoreapp2.1\POCCosmosDB.runtimeconfig.dev.json
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\bin\Debug\netcoreapp2.1\POCCosmosDB.dll
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.csprojAssemblyReference.cache
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.csproj.CoreCompileInputs.cache
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.RazorAssemblyInfo.cache
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.RazorAssemblyInfo.cs
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.AssemblyInfoInputs.cache
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.AssemblyInfo.cs
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.RazorTargetAssemblyInfo.cache
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\bin\Debug\netcoreapp2.1\POCCosmosDB.pdb
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.dll
+C:\Users\Pandeysa2.dv\Source\Repos\POCCosmosDB\POCCosmosDB\obj\Debug\netcoreapp2.1\POCCosmosDB.pdb

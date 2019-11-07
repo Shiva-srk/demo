@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pandeysa2.dv\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pandeysa2.dv\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
